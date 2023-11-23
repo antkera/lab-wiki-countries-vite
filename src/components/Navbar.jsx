@@ -1,3 +1,5 @@
-function Navbar() {}
+import React from "react";
 
-export default Navbar;
+export default function Navbar() {
+  return <nav>Wiki countries</nav>;
+}
